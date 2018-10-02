@@ -1,0 +1,333 @@
+{
+  "games": [
+    {
+      "id": 2,
+      "date": "2018-03-30",
+      "home": false,
+      "opponent": "Toronto Blue Jays",
+      "win": true
+    },
+    {
+      "id": 3,
+      "date": "2018-03-31",
+      "home": false,
+      "opponent": "Toronto Blue Jays",
+      "win": false
+    },
+    {
+      "id": 4,
+      "date": "2018-04-01",
+      "home": false,
+      "opponent": "Toronto Blue Jays",
+      "win": false
+    },
+    {
+      "id": 5,
+      "date": "2018-04-03",
+      "home": true,
+      "opponent": "Tampa Bay Rays",
+      "win": true
+    },
+    {
+      "id": 6,
+      "date": "2018-04-04",
+      "home": true,
+      "opponent": "Tampa Bay Rays",
+      "win": true
+    },
+    {
+      "date": "2018-04-05",
+      "home": false,
+      "win": false,
+      "opponent": "Baltimore Orioles",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "date": "2018-05-06",
+      "home": true,
+      "opponent": "Baltimore Orioles",
+      "win": false
+    },
+    {
+      "id": 9,
+      "date": "2018-04-07",
+      "home": true,
+      "opponent": "Baltimore Orioles",
+      "win": true
+    },
+    {
+      "id": 10,
+      "date": "2018-04-08",
+      "home": true,
+      "opponent": "Baltimore Orioles",
+      "win": false
+    },
+    {
+      "id": 11,
+      "date": "2018-04-10",
+      "home": false,
+      "opponent": "Boston Red Sox",
+      "win": false
+    },
+    {
+      "id": 12,
+      "date": "2018-04-11",
+      "home": false,
+      "opponent": "Boston Red Sox",
+      "win": true
+    },
+    {
+      "id": 13,
+      "date": "2018-04-12",
+      "home": false,
+      "opponent": "Boston Red Sox",
+      "win": false
+    },
+    {
+      "id": 14,
+      "date": "2018-04-13",
+      "home": false,
+      "opponent": "Detroit Tigers",
+      "win": true
+    },
+    {
+      "id": 15,
+      "date": "2018-04-16",
+      "home": true,
+      "opponent": "Miami Marlins",
+      "win": true
+    },
+    {
+      "id": 16,
+      "date": "2018-04-17",
+      "home": true,
+      "opponent": "Miami Marlins",
+      "win": false
+    },
+    {
+      "id": 17,
+      "date": "2018-04-19",
+      "home": true,
+      "opponent": "Toronto Blue Jays",
+      "win": true
+    },
+    {
+      "id": 18,
+      "date": "2018-04-20",
+      "home": true,
+      "opponent": "Toronto Blue Jays",
+      "win": false
+    },
+    {
+      "date": "2018-09-21",
+      "home": false,
+      "win": true,
+      "opponent": "Toronto Blue Jays",
+      "id": 19
+    },
+    {
+      "id": 20,
+      "date": "2018-04-22",
+      "home": true,
+      "opponent": "Toronto Blue Jays",
+      "win": true
+    },
+    {
+      "id": 21,
+      "date": "2018-04-23",
+      "home": true,
+      "opponent": "Minnesota Twins",
+      "win": true
+    },
+    {
+      "id": 22,
+      "date": "2018-04-24",
+      "home": true,
+      "opponent": "Minnesota Twins",
+      "win": true
+    },
+    {
+      "id": 23,
+      "date": "2018-04-25",
+      "home": true,
+      "opponent": "Minnesota Twins",
+      "win": true
+    },
+    {
+      "id": 24,
+      "date": "2018-04-26",
+      "home": true,
+      "opponent": "Minnesota Twins",
+      "win": true
+    },
+    {
+      "id": 25,
+      "date": "2018-04-27",
+      "home": false,
+      "opponent": "Los Angeles Angels",
+      "win": true
+    },
+    {
+      "id": 26,
+      "date": "2018-04-28",
+      "home": false,
+      "opponent": "Los Angeles Angels",
+      "win": true
+    },
+    {
+      "id": 27,
+      "date": "2018-04-29",
+      "home": false,
+      "opponent": "Los Angeles Angels",
+      "win": true
+    },
+    {
+      "id": 28,
+      "date": "2018-04-30",
+      "home": false,
+      "opponent": "Houston Astros",
+      "win": false
+    },
+    {
+      "id": 29,
+      "date": "2018-05-01",
+      "home": false,
+      "opponent": "Houston Astros",
+      "win": true
+    },
+    {
+      "id": 30,
+      "date": "2018-05-02",
+      "home": false,
+      "opponent": "Houston Astros",
+      "win": true
+    },
+    {
+      "date": "2018-05-03",
+      "home": false,
+      "win": true,
+      "opponent": "Houston Astros",
+      "id": 31
+    },
+    {
+      "id": 32,
+      "date": "2018-05-04",
+      "home": true,
+      "opponent": "Cleveland Indians",
+      "win": true
+    },
+    {
+      "id": 33,
+      "date": "2018-05-05",
+      "home": true,
+      "opponent": "Cleveland Indians",
+      "win": true
+    },
+    {
+      "id": 34,
+      "date": "2018-05-06",
+      "home": true,
+      "opponent": "Cleveland Indians",
+      "win": true
+    },
+    {
+      "id": 35,
+      "date": "2018-05-08",
+      "home": true,
+      "opponent": "Boston Red Sox",
+      "win": true
+    },
+    {
+      "id": 36,
+      "date": "2018-09-07",
+      "home": false,
+      "opponent": "Oakland Athletics",
+      "win": true
+    },
+    {
+      "date": "2018-09-14",
+      "home": true,
+      "win": false,
+      "opponent": "Toronto Blue Jays",
+      "id": 38
+    },
+    {
+      "date": "2018-09-15",
+      "home": true,
+      "win": false,
+      "opponent": "Toronto Blue Jays",
+      "id": 39
+    },
+    {
+      "date": "2018-09-16",
+      "home": true,
+      "win": true,
+      "opponent": "Toronto Blue Jays",
+      "id": 40
+    },
+    {
+      "date": "2018-09-11",
+      "home": false,
+      "win": false,
+      "opponent": "Minnesota Twins",
+      "id": 41
+    },
+    {
+      "date": "2018-09-12",
+      "home": false,
+      "win": false,
+      "opponent": "Minnesota Twins",
+      "id": 42
+    },
+    {
+      "date": "2018-09-10",
+      "home": true,
+      "win": false,
+      "opponent": "Chicago White Sox",
+      "id": 43
+    },
+    {
+      "date": "2018-09-14",
+      "home": false,
+      "win": false,
+      "opponent": "Minnesota Twins",
+      "id": 44
+    },
+    {
+      "date": "2018-09-20",
+      "home": true,
+      "win": false,
+      "opponent": "Boston Red Sox",
+      "id": 45
+    },
+    {
+      "date": "2018-09-20",
+      "home": true,
+      "win": false,
+      "opponent": "Boston Red Sox",
+      "id": 46
+    },
+    {
+      "date": "2018-09-19",
+      "home": true,
+      "win": true,
+      "opponent": "Boston Red Sox",
+      "id": 47
+    },
+    {
+      "date": "2018-09-21",
+      "home": true,
+      "win": true,
+      "opponent": "Baltimore Orioles",
+      "id": 48
+    },
+    {
+      "date": "2018-09-22",
+      "home": true,
+      "win": true,
+      "opponent": "Baltimore Orioles",
+      "id": 49
+    }
+  ]
+}
