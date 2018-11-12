@@ -22,13 +22,6 @@
       "win": false
     },
     {
-      "id": 5,
-      "date": "2018-04-03",
-      "home": true,
-      "opponent": "Tampa Bay Rays",
-      "win": true
-    },
-    {
       "id": 6,
       "date": "2018-04-04",
       "home": true,
@@ -328,6 +321,27 @@
       "win": true,
       "opponent": "Baltimore Orioles",
       "id": 49
+    },
+    {
+      "date": "2018-11-07",
+      "home": true,
+      "win": true,
+      "opponent": "Detroit Tigers",
+      "id": 50
+    },
+    {
+      "date": "2018-11-07",
+      "home": true,
+      "win": true,
+      "opponent": "Baltimore Orioles",
+      "id": 51
+    },
+    {
+      "date": "2018-10-03",
+      "home": true,
+      "win": true,
+      "opponent": "Kansas City Royals",
+      "id": 52
     }
   ]
 }

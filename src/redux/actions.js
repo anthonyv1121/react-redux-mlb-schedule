@@ -44,7 +44,7 @@ export const addGame = (game) => (dispatch, getState) => {
                 dispatch({
                     type: A.FETCHING_COMPLETE
                 })
-            }, 5000)
+            }, 3000)
 
             // setTimeout(() => {
             //     dispatch({
@@ -75,7 +75,7 @@ export const updateGame = (id, game) => (dispatch) => {
                 dispatch({
                     type: A.FETCHING_COMPLETE
                 })
-            }, 5000)
+            }, 3000)
         })  
         .catch(err => {
             console.error(err)
